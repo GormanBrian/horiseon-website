@@ -8,6 +8,8 @@ body {
   background-color: #d9dcd6;
 }
 
+/* Start Header */
+
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -47,9 +49,13 @@ a {
   text-decoration: none;
 }
 
+/* End Header */
+
 p {
   font-size: 16px;
 }
+
+/* Start Images */
 
 .hero {
   height: 800px;
@@ -70,11 +76,15 @@ p {
   margin-left: 25px;
 }
 
+/* End Images */
+
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
+
+/* Start Benefits */
 
 .benefits {
   margin-right: 20px;
@@ -135,6 +145,9 @@ p {
   max-width: 150px;
 }
 
+/* End Benefits */
+/* Start Sections */
+
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -189,6 +202,9 @@ p {
   font-size: 36px;
 }
 
+/* End Sections */
+/* Start Footer */
+
 footer {
   padding: 30px;
   clear: both;
@@ -200,3 +216,5 @@ footer {
 footer h2 {
   font-size: 20px;
 }
+
+/* End Footer */
